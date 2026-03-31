@@ -18,3 +18,7 @@ MAKE SURE TO SELECT YOUR INTERPRETER WITH ctrl+shift+p -> Python:Select Interpre
 
 ***GET TO KNOW THE DATA***
 In the notebook analysis/starter_analysis, this is a starter notebook with code that shows you how I view the data. Read this file for information on the version 1 data. 
+
+***GETTING DATA READY FOR MODELING***
+check out the ETL.ipynb notebook under the analysis directory to test logic for a dataset for your modeling
+Add your ETL.ipynb logic into the ETL_modeling_methods.py if you want to use an organized directory for calling methods
