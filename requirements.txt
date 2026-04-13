@@ -6,3 +6,4 @@ numpy
 prophet
 ipykernel
 requests
+statsmodels
